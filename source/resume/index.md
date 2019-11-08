@@ -8,7 +8,7 @@ date: 2019-10-14 21:59:50
  - xuxihai/男/1992
  - 本科/山西大学/计算机科学与技术
  - 工作年限：2年
- - 技术博客：http://www.xuxihai.top
+ - 技术博客：https://www.xuxihai.com
  - Github：http://github.com/x373241884y
  - 期望职位：前端开发工程师，Node.js开发工程师，Python开发工程师，全栈工程师．．．
  - 期望薪资：税前月薪13k~16k
@@ -78,7 +78,7 @@ date: 2019-10-14 21:59:50
 
 ### 个人网站 
  - 使用Nde.js(Express+mysql+Ejs(前台)+Angularjs(后管))开发
- - 浏览效果:http://www.xuxihai.top　[前台预览](http://115.28.81.19) [后台预览](http://115.28.81.19/admin/index.html)   (管理员：admin/admin2017)
+ - 浏览效果:https://www.xuxihai.com　[前台预览](http://115.28.81.19) [后台预览](http://115.28.81.19/admin/index.html)   (管理员：admin/admin2017)
  - 代码地址:http://github.com/x373241884y/xxhblog
 
 ### HttpServer(http简单实现)

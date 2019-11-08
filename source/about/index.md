@@ -8,7 +8,7 @@ date: 2019-10-14 21:58:34
  - XuXiHai/男/1993
  - 本科/山西大学计算机科学与技术
  - 工作年限：2年
- - 技术博客：http://www.xuxihai.top
+ - 技术博客：https://www.xuxihai.com
  - Github：http://github.com/x373241884y
 #### 教育背景
  - 山西大学 计算机科学与技术  (2011-2015)
